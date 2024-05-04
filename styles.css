@@ -1,0 +1,39 @@
+/* Custom CSS untuk halaman dashboard */
+
+/* Gaya untuk elemen navbar */
+.navbar {
+    border-bottom: 3px solid #0e0303; /* Garis bawah navbar */
+}
+
+.navbar-brand {
+    font-size: 1.5rem; /* Ukuran font navbar-brand */
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.2rem; /* Ukuran font nav-link */
+}
+
+/* Gaya untuk elemen header */
+.header {
+    background-color: #000000; /* Warna latar belakang header */
+    padding: 20px;
+}
+
+/* Gaya untuk elemen carousel */
+.carousel-item img {
+    height: 750px; /* Ukuran gambar carousel */
+}
+
+/* Gaya untuk elemen card */
+.card {
+    margin-bottom: 20px; /* Jarak antara card */
+}
+
+.card-body {
+    font-size: 1.1rem; /* Ukuran font konten card */
+}
+
+/* Gaya untuk elemen footer */
+.footer {
+    font-size: 0.9rem; /* Ukuran font footer */
+}
